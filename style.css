@@ -1,4 +1,29 @@
 body{
     color:white;
     background:pink;
+margin:0px;
+font-family:"chakra prech", sans-serif;
+margin-bottom: 100px;
 }
+
+header{
+
+border-bottom: solid 2px rgb(199, 22, 131);
+padding: 20px;||
+font-size: 32px;
+color:rgb(199, 22, 131);
+}
+
+.chamada{
+background: rgb(173, 55, 154);
+padding-bottom: 80px;
+padding-top: 80px;
+display: flex;
+justify-content: center;
+}
+
+h1
+
+
+
+
